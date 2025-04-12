@@ -1,0 +1,5 @@
+latitude,longitude,crime_type,date
+13.0827,80.2707,Theft,2024-01-01
+13.0500,80.2500,Harassment,2024-01-02
+13.0700,80.2200,Assault,2024-01-03
+13.0600,80.2400,Snatching,2024-01-04
